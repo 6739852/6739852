@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neomi Auerbach</h1>
-<h3 align="center">Software, Verification & Full-Stack Developer</h3>
+<h3 align="center">Software & Verification Engineer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=6739852&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=6739852" />
-  </a> 
 </p>
 
 ---
@@ -66,17 +60,6 @@
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=6739852&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6739852" />
-</p>
 
 ---
 
