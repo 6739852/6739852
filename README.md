@@ -1,53 +1,25 @@
-<h1 align="center">Hi 👋, I'm Neomi Auerbach</h1>
-<h3 align="center">Software & Verification Engineer</h3>
+<h1 align="center">Hi 👋, I'm Neomi</h1>
+<h3 align="center">I am a software engineer</h3>
 
-<p align="center">
-Highly motivated engineer with hands-on experience in chip verification (UVM), 
-algorithmic problem-solving, and development of complex C++ systems including 
-real-time graphics and physics-based engines.
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=6739852&label=Profile%20views&color=0e75b6&style=flat" alt="6739852" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=6739852" alt="6739852" /></a> </p>
 
-### 🔍 About Me
-- 🎯 Specializing in **chip verification**, UVM methodology, debugging, and functional coverage  
-- 🧠 Strong background in **algorithms, data structures, computer architecture, and OS**  
-- 🛠️ Experience developing **C++ systems with OpenCV, multithreading, and design patterns**  
-- 🚀 Graduate of **Qualcomm verification bootcamp** (UVM, SV, Verilog)  
-- 💼 Actively looking for opportunities in **software engineering / verification**  
-- 💡 Fast learner, analytical, and committed to clean, reliable engineering
+- 🔭 I’m currently working on **An innovation project of the Ministry of Education in combination with a personal project**
 
----
+- 🌱 I’m currently learning **Python combined with artificial intelligence libraries, C++ and React**
 
-### 🧪 Projects
-#### **✔ UVM Verification Environment – YAPP Router (Qualcomm Bootcamp)**
-Driver, Monitor, Sequencer, Scoreboard, functional coverage, assertions, CRV, waveforms & logs debugging.
+- 🤝 I’m looking for help with **Finding a job in software engineering**
 
-#### **✔ Physics-Based Chess Engine (C++, OpenCV)**
-Real-time rendering, multithreading, event-driven architecture, and modular CMake build.
+- 💬 Ask me about **Algorithm questions - I'm a champion**
 
----
-
-### 🧰 Languages & Tools
+- 📫 How to reach me **6739852@gmail.com**
 <p align="left">
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 📬 Contact
-📧 **6739852@gmail.com**  
-📎 GitHub: **https://github.com/6739852**  
-📎 LeetCode: **https://leetcode.com/u/R3Wsh7Aw4q/**
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=6739852&show_icons=true&locale=en&layout=compact" alt="6739852" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6739852&" alt="6739852" /></p>
