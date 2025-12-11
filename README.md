@@ -1,53 +1,86 @@
 <h1 align="center">Hi 👋, I'm Neomi Auerbach</h1>
-<h3 align="center">Software & Verification Engineer</h3>
+<h3 align="center">Software, Verification & Full-Stack Developer</h3>
 
-<p align="center">
-Highly motivated engineer with hands-on experience in chip verification (UVM), 
-algorithmic problem-solving, and development of complex C++ systems including 
-real-time graphics and physics-based engines.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=6739852&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=6739852" />
+  </a> 
 </p>
 
 ---
 
 ### 🔍 About Me
-- 🎯 Specializing in **chip verification**, UVM methodology, debugging, and functional coverage  
-- 🧠 Strong background in **algorithms, data structures, computer architecture, and OS**  
-- 🛠️ Experience developing **C++ systems with OpenCV, multithreading, and design patterns**  
-- 🚀 Graduate of **Qualcomm verification bootcamp** (UVM, SV, Verilog)  
-- 💼 Actively looking for opportunities in **software engineering / verification**  
-- 💡 Fast learner, analytical, and committed to clean, reliable engineering
+- 🧪 Specializing in **chip verification (UVM)** and simulation-based methodologies  
+- 🧰 Strong background in **algorithms, system architecture, operating systems and digital logic**  
+- 🛠️ Building **C++ real-time systems** with OpenCV, design patterns, and multithreading  
+- 🌐 Developing **Full-Stack (FS) applications**, integrating frontend–backend logic and clean UI  
+- 🚀 Graduate of **Qualcomm Chip Verification Bootcamp**  
+- 💡 Analytical thinker, fast learner, reliable and detail oriented  
+- 💼 Looking for opportunities in **Software Engineering / Verification**
 
 ---
 
-### 🧪 Projects
-#### **✔ UVM Verification Environment – YAPP Router (Qualcomm Bootcamp)**
-Driver, Monitor, Sequencer, Scoreboard, functional coverage, assertions, CRV, waveforms & logs debugging.
+## 🧪 Projects
 
-#### **✔ Physics-Based Chess Engine (C++, OpenCV)**
-Real-time rendering, multithreading, event-driven architecture, and modular CMake build.
+### ✔ UVM Verification Environment – YAPP Router (Qualcomm Bootcamp)
+- Complete implementation of **Driver, Monitor, Sequencer, Scoreboard**  
+- **Functional coverage**, constrained-random testing, assertions  
+- Debugging using **logs, waveforms and multi-channel routing analysis**
 
 ---
 
-### 🧰 Languages & Tools
-<p align="left">
+### ✔ Physics-Based Chess Engine (C++ & OpenCV)
+- Real-time rendering with **OpenCV**
+- **Multithreading** for asynchronous event scheduling
+- Modular architecture using **CMake**, OOP, and design patterns  
+- Physics-based transitions and interactive engine logic  
+
+---
+
+### ✔ Full-Stack Development Projects (FS)
+- Building modern **full-stack applications**  
+- REST APIs, backend logic, database integration  
+- UI development with clean component design  
+- Experience across **frontend + backend + deployment flow**
+
+---
+
+## 🧰 Languages & Tools
+<p align="left"> 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" width="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
 </p>
 
 ---
 
-### 📬 Contact
+## 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=6739852&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6739852" />
+</p>
+
+---
+
+## 📬 Contact
 📧 **6739852@gmail.com**  
 📎 GitHub: **https://github.com/6739852**  
 📎 LeetCode: **https://leetcode.com/u/R3Wsh7Aw4q/**
-
